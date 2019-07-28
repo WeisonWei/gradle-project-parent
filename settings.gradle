@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-project-parent'
+include 'gradle-project-child1'
+include 'gradle-project-child2'
+include 'gradle-project-utils'
+
